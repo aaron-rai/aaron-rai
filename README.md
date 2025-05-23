@@ -5,7 +5,7 @@
     <a href="https://wakatime.com/@018d39fc-3bad-476a-b33e-d4dbbecd746e">
         <img src="https://wakatime.com/badge/user/018d39fc-3bad-476a-b33e-d4dbbecd746e.svg">
     </a>
-    <a href="https://aaronrai24.github.io/PersonalPortfolio/index.html">
+    <a href="https://aaron-rai.github.io/PersonalPortfolio/index.html">
         <img src="https://img.shields.io/badge/Portfolio-My%20Portfolio-blue">
     </a>
 </p>
