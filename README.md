@@ -56,7 +56,7 @@ if __name__ == "__main__":
 
 ## 🏆 GitHub Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aaron-rai&theme=nord&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aaron-rai&theme=nord&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 👨‍💻 Current Stack:
