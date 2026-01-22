@@ -52,12 +52,7 @@ if __name__ == "__main__":
 **Databases:**
 
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=336791&color=336791)
-![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=4479A1&color=4479A1)
 ![MSSQL](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=microsoft-sql-server&logoColor=CC2927&color=CC2927)
-
-## 🏆 GitHub Trophies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aaron-rai&theme=nord&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## 👨‍💻 Current Stack:
