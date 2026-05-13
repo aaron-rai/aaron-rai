@@ -53,12 +53,3 @@ if __name__ == "__main__":
 
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=336791&color=336791)
 ![MSSQL](https://img.shields.io/badge/Database-MSSQL-informational?style=flat&logo=microsoft-sql-server&logoColor=CC2927&color=CC2927)
-
-
-## 👨‍💻 Current Stack:
-
-<p align="center">
-    <a href="https://wakatime.com/@aaronrai24">
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=aaronrai24&layout=compact&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Aarons's WakaTime stats">
-    </a>
-</p>
