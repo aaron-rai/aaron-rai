@@ -2,9 +2,6 @@
 
 <p align="center">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=aaronrai24">
-    <a href="https://wakatime.com/@018d39fc-3bad-476a-b33e-d4dbbecd746e">
-        <img src="https://wakatime.com/badge/user/018d39fc-3bad-476a-b33e-d4dbbecd746e.svg">
-    </a>
     <a href="https://aaron-rai.github.io/personal-portfolio/index.html">
         <img src="https://img.shields.io/badge/Portfolio-My%20Portfolio-blue">
     </a>
